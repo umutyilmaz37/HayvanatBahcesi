@@ -1,0 +1,15 @@
+c:\users\umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.exe.config
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.exe
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\bin\Debug\HayvanatBahcesi.pdb
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.csprojResolveAssemblyReference.cache
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Properties.Resources.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.csproj.GenerateResource.Cache
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.exe
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.pdb
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Anasayfa.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Hayvanlar.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.YetkiliGiris.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Personeller.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Yetkili.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Hakkimizda.resources
+C:\Users\Umut\documents\visual studio 2012\Projects\HayvanatBahcesi\HayvanatBahcesi\obj\Debug\HayvanatBahcesi.Servisler.resources
